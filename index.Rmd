@@ -1,5 +1,5 @@
 ---
-title: "Paul's Lockdown Movie Soundtrack Quiz 2"
+title: "Paul's Movie Soundtrack Round"
 output:
   revealjs::revealjs_presentation:
     self_contained: false
@@ -7,30 +7,28 @@ output:
     theme: black
     viewDistance: 12
     mobileViewDistance: 12
+    class: stretch
 autosize: true
 ---
 
 ## Rules
 
-- One point for the artist/song
 - One point for the movie
-- Half point for correct franchise but wrong number
 
 
 <br /><br />
 
-
 ## Question 1
-<video data-autoplay><source data-src="1.webm" type="video/webm"></video>
+<video data-autoplay><source data-src="1.mp4" type="video/mp4"></video>
 
 ## Question 2
-<video data-autoplay><source data-src="1.webm" type="video/webm"></video>
+<video data-autoplay><source data-src="1.mp4" type="video/mp4"></video>
 
 ## Question 3
-<video data-autoplay><source data-src="1.m4v" type="video/mp4"></video>
+<video data-autoplay><source data-src="1.mp4" type="video/mp4"></video>
 
 ## Question 4
-<video data-autoplay><source data-src="1.m4v" type="video/m4v"></video>
+<video data-autoplay><source data-src="1.mp4" type="video/mp4"></video>
 
 ## Question 5
 <video data-autoplay><source data-src="5.mp4" type="video/mp4"></video>
