@@ -27,10 +27,10 @@ autosize: true
 <video data-autoplay><source data-src="1.webm" type="video/webm"></video>
 
 ## Question 3
-<video data-autoplay><source data-src="3.mp4" type="video/mp4"></video>
+<video data-autoplay><source data-src="1.m4v" type="video/mp4"></video>
 
 ## Question 4
-<video data-autoplay><source data-src="4.mp4" type="video/mp4"></video>
+<video data-autoplay><source data-src="1.m4v" type="video/m4v"></video>
 
 ## Question 5
 <video data-autoplay><source data-src="5.mp4" type="video/mp4"></video>
