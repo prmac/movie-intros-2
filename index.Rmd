@@ -24,7 +24,7 @@ autosize: true
 <video data-autoplay><source data-src="1.mp4" type="video/mp4"></video>
 
 ## Question 2
-<video data-autoplay><source data-src="1.m4v" type="video/m4v"></video>
+<video data-autoplay><source data-src="1.webm" type="video/webm"></video>
 
 ## Question 3
 <video data-autoplay><source data-src="3.mp4" type="video/mp4"></video>
