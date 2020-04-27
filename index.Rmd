@@ -1,0 +1,52 @@
+---
+title: "Paul's Lockdown Movie Soundtrack Quiz 2"
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    lib_dir: libs
+    theme: black
+    viewDistance: 12
+    mobileViewDistance: 12
+autosize: true
+---
+
+## Rules
+
+- One point for the artist/song
+- One point for the movie
+- Half point for correct franchise but wrong number
+
+
+<br /><br />
+
+
+## Question 1
+<video data-autoplay><source data-src="1.mp4" type="video/mp4"></video>
+
+## Question 2
+<video data-autoplay><source data-src="1.mov" type="video/mov"></video>
+
+## Question 3
+<video data-autoplay><source data-src="3.mp4" type="video/mp4"></video>
+
+## Question 4
+<video data-autoplay><source data-src="4.mp4" type="video/mp4"></video>
+
+## Question 5
+<video data-autoplay><source data-src="5.mp4" type="video/mp4"></video>
+
+## Question 6
+<video data-autoplay><source data-src="6.mp4" type="video/mp4"></video>
+
+## Question 7
+<video data-autoplay><source data-src="7.mp4" type="video/mp4"></video>
+
+## Question 8
+<video data-autoplay><source data-src="8.mp4" type="video/mp4"></video>
+
+## Question 9
+<video data-autoplay><source data-src="9.mp4" type="video/mp4"></video>
+
+## Question 10
+<video data-autoplay><source data-src="10.mp4" type="video/mp4"></video>
+
